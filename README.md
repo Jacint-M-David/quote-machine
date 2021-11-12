@@ -1,4 +1,4 @@
 # quote-machine
 This is a quote generator application.
 
-For some reason it isn't pushing...
+Let's try to change this again and push it from VS Code, now with the updated cache for the credential helper.
